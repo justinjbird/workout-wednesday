@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Power BI stuffs
+## excluding pbix - only pbit to be committed
+*.pbix
+## excluding tabular stuff whilst I'm messing around
+*.bim
+## excluding tabular stuff whilst I'm messing around
+model
+
 # User-specific files
 *.rsuser
 *.suo
@@ -396,3 +404,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+2021/.DS_Store
