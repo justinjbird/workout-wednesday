@@ -405,4 +405,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-2021/.DS_Store
+.DS_Store
