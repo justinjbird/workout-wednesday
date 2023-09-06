@@ -6,10 +6,7 @@
 # Power BI stuffs
 ## excluding pbix - only pbit to be committed
 *.pbix
-## excluding tabular stuff whilst I'm messing around
-*.bim
-## excluding tabular stuff whilst I'm messing around
-model
+*.pbit
 
 # User-specific files
 *.rsuser
