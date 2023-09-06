@@ -7,7 +7,7 @@
 ## excluding pbix - only pbit to be committed
 *.pbix
 *.pbit
-**/.pbi/*
+**/.pbi
 
 # User-specific files
 *.rsuser
