@@ -35,7 +35,7 @@ Inaccuracies in the spec, so complete requirements are;
 
 #### Dataset
 
-- [NCAA Profit and Losses.xlsx](./data/NCAA Profit and Losses.xlsx)
+- [Week 1 file](./2021/01/NCAA.pbip)
 
 #### Requirements
 
@@ -47,6 +47,19 @@ Inaccuracies in the spec, so complete requirements are;
 - Indicate that this view is the Summary level view within the header area.
 - Colors and design of the header section is at your discretion.
 
+### 2021 Week 3 | [Power BI: Report Interactivity](https://workout-wednesday.com/pbi-2021-w03/)
+
+#### Dataset
+
+- [Week 2 file](./2021/02/NCAA.pbip)
+
+#### Requirements
+
+- Add a slicer for [Year] to the report.
+- Edit Interactions for the slicer to have it only slice the KPIs and bar charts (not trends)
+- Edit Interactions of the Conference breakdowns so that they filter the KPIs and Trends on click.
+- Use colors to differentiate between metrics
+- Figure out how much money the MAC conference made in 2016
 
 ## Notes
 
