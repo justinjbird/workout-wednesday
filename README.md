@@ -31,15 +31,9 @@ Inaccuracies in the spec, so complete requirements are;
 - Filter "FBS Total" and null values from "FBS Conference" column
 - Filter "Conference Median" from "NCAA Subdivision" column
 
-#### Steps
-
-- Set filter for FBS Conference
-- Set filter for Conference Median
-- Promoted headers on conference_dim
-
 ### 2021 Week 2 | [Power BI: Creating Basic KPI Report](https://workout-wednesday.com/pbi-2021-w02/)
 
-#### Dataset
+#### Dataset
 
 - [NCAA Profit and Losses.xlsx](./data/NCAA Profit and Losses.xlsx)
 
@@ -53,10 +47,6 @@ Inaccuracies in the spec, so complete requirements are;
 - Indicate that this view is the Summary level view within the header area.
 - Colors and design of the header section is at your discretion.
 
-#### Revisions
-
-- 
-#### Steps
 
 ## Notes
 
