@@ -12,7 +12,7 @@ See [here](https://workout-wednesday.com/power-bi-challenges/)
 
 ### 2021 Week 1 | [Power BI: Connecting To & Modeling Data](https://workout-wednesday.com/pbi-2021-w01/)
 
-#### Dataset
+#### Dataset
 
 - [NCAA Profit and Losses.xlsx](./data/NCAA Profit and Losses.xlsx)
 
