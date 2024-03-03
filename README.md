@@ -53,7 +53,7 @@ Inaccuracies in the spec, so complete requirements are;
 
 - [Week 2 file](./2021/02/NCAA.pbip)
 
-#### Requirements
+#### Requirements
 
 - Add a slicer for [Year] to the report.
 - Edit Interactions for the slicer to have it only slice the KPIs and bar charts (not trends)
